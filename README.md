@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the MTA Financial Performance Analysis project. This project is focused on analyzing the financial data of the Metropolitan Transportation Authority (MTA), New York's primary public transit agency. The data for this project was extracted from the State of New York's Open Data platform through the Socrata Open Data API (SODA). Access the dataset here.
+Welcome to the MTA Financial Performance Analysis project. This project is focused on analyzing the financial data of the Metropolitan Transportation Authority (MTA), New York's primary public transit agency. The data for this project was extracted from the State of New York's Open Data platform through the Socrata Open Data API (SODA). [Access the dataset here](https://data.ny.gov/Transportation/MTA-Statement-of-Operations-Beginning-2019/yg77-3tkj/about_data)
 
 ## Project Description
 
